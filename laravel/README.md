@@ -1,16 +1,4 @@
-# MTCRM
-
-This repository contains a minimal Laravel application located in the
-`laravel` directory. PHPUnit is configured via `phpunit.xml` and an example
-controller test is provided.
-
-## Running tests
-
-```bash
-cd laravel
-composer install
-php artisan test
-```
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -47,19 +35,14 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
+- **[Vehikl](https://vehikl.com)**
 - **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
 - **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
 - **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
+- **[Redberry](https://redberry.international/laravel-development)**
 - **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
 
 ## Contributing
 
